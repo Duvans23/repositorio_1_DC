@@ -1,0 +1,6 @@
+1_Consultar información
+2_Elegir fuente reconocida o confiable
+3_Leer fecha de publicación y autor (que sea conocedor del tema)
+4_Comprobar autenticidad de la pagina
+5_Contrastar con otras fuentes confiables
+6_Compartir el link del autor original, evitar terceros que tergiversan la información
